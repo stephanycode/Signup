@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     Button button;
     EditText name,email,age,password;
     FirebaseAuth firebaseAuth;
-    //ssss
+    //out
 
 
     @Override
